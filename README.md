@@ -3,7 +3,7 @@
 
 # ⚡ Thunder F722 Drone Flight Controller ⚡
 A simple, one-sided, cheap flight controller for the practical FPV Pilot.
-Please check OSHWLab link for easy forking on EasyEDA: [https://oshwlab.com/anardine.ef/thunder-f722-drone-flight-contro](https://oshwlab.com/anardine.ef/thunder-f722-drone-flight-contro)
+Please check OSHWLab link for easy forking on EasyEDA: https://oshwlab.com/anardine.ef/thunder-f722-drone-flight-contro 
 Read the FC article describing all details and technical choices for this design at [https://amnardinelli.com/post/design-of-a-fpv-drone-f722-flight-controller](https://amnardinelli.com/post/design-of-a-fpv-drone-f722-flight-controller)
 
 ## Quick Notice :dollar:
